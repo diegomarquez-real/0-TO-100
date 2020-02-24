@@ -1,0 +1,6 @@
+C:\Users\diego\OneDrive\Documents\Visual Studio 2019\Projects\ISTA220\0 TO 100\bin\Debug\0 TO 100.exe.config
+C:\Users\diego\OneDrive\Documents\Visual Studio 2019\Projects\ISTA220\0 TO 100\bin\Debug\0 TO 100.exe
+C:\Users\diego\OneDrive\Documents\Visual Studio 2019\Projects\ISTA220\0 TO 100\bin\Debug\0 TO 100.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2019\Projects\ISTA220\0 TO 100\obj\Debug\0 TO 100.exe
+C:\Users\diego\OneDrive\Documents\Visual Studio 2019\Projects\ISTA220\0 TO 100\obj\Debug\0 TO 100.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2019\Projects\ISTA220\0 TO 100\obj\Debug\0 TO 100.csprojAssemblyReference.cache
